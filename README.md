@@ -23,5 +23,8 @@ Jan 2022 - Dec 2024
 Grade: Sophomore  
 Activities and societies: Alpha Gamma chapter of Alpha Delta Pi
 
-
-
+## **Volunteering**
+### **Active Member**
+Alpha Delta Pi Sorority  
+Jan 2022 - Present · 3 mos  
+Alpha Gamma chapter at the University of Missouri- Columbia
