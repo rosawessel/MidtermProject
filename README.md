@@ -14,7 +14,15 @@ Wildwood, Missouri, United States
 -Provide exceptional patient care experiences by working closely with providers and patients primarily seen for acne, skin checks, warts, and rashes  
 -Utilize NextGen Healthcare Information Systems & ModMed's EMA EHR System to accurately and efficiently record patient information in electronic medical records for 15-20 patients daily  
 -Create and deliver patients’ prescriptions instructed from providers to pharmacies electronically  
--Discuss and inform patients about shave biopsy, cryosurgery, and electrodesiccation & curette wound care instructions  
+-Discuss and inform patients about shave biopsy, cryosurgery, and electrodesiccation & curette wound care instructions
+
+### **BIOL 1245 Undergraduate Laboratory Teaching Assistant**
+Saint Louis University · Part-time  
+Aug 2021 - Dec 2021 · 5 mos  
+St Louis, Missouri, United States  
+Facilitated a productive learning environment for 50 first-year biology students by assisting and demonstrating proper techniques weekly during the laboratory.
+
+
 
 ## **Education**
 ### **University of Missouri- Columbia**
