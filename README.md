@@ -30,8 +30,8 @@ Jan 2022 - Present · 3 mos
 Alpha Gamma chapter at the University of Missouri- Columbia
 
 ## **Skills**
--R  
--Python  
+-R (Programming Language)  
+-Python (Programming Language)  
 -HTML  
 -Microsoft Suites  
 -Google Suites  
