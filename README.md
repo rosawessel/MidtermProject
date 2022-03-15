@@ -1,5 +1,5 @@
-# Midterm Project - LinkedIn Profile Summary
-[LinkedIn Link](https://www.linkedin.com/in/rosa-wessel-904101218/)
+# Midterm Project - LinkedIn Profile Sample
+*[LinkedIn Link](https://www.linkedin.com/in/rosa-wessel-904101218/)*
 
 ##  **About**
 I am a sophomore pursuing a degree in Information Technology at the University of Missouri-Columbia. My areas of interest include Digital Media/Multimedia and Software Development; however, I am open to all areas of IT. I am intermediate in Python and HTML coding and have a thorough knowledge of game theory and design. I am interested in internship opportunities this summer and am willing to relocate. 
@@ -16,9 +16,12 @@ Wildwood, Missouri, United States
 -Create and deliver patients’ prescriptions instructed from providers to pharmacies electronically  
 -Discuss and inform patients about shave biopsy, cryosurgery, and electrodesiccation & curette wound care instructions  
 
+## **Education**
+### **University of Missouri- Columbia**
+Bachelor of Science - BS, Information Technology  
+Jan 2022 - Dec 2024  
+Grade: Sophomore  
+Activities and societies: Alpha Gamma chapter of Alpha Delta Pi
 
-
-*italicized text*
-**bold text**
 
 
