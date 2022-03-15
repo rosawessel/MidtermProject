@@ -20,8 +20,8 @@ Wildwood, Missouri, United States
 Saint Louis University · Part-time  
 Aug 2021 - Dec 2021 · 5 mos  
 St Louis, Missouri, United States  
-Facilitated a productive learning environment for 50 first-year biology students by assisting  
-and demonstrating proper techniques weekly during the laboratory.
+Facilitated a productive learning environment for 50 first-year biology students by   
+assisting and demonstrating proper techniques weekly during the laboratory.
 
 
 
