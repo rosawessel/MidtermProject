@@ -28,3 +28,12 @@ Activities and societies: Alpha Gamma chapter of Alpha Delta Pi
 Alpha Delta Pi Sorority  
 Jan 2022 - Present · 3 mos  
 Alpha Gamma chapter at the University of Missouri- Columbia
+
+## **Skills**
+-R  
+-Python  
+-HTML  
+-Microsoft Suites  
+-Google Suites  
+
+
