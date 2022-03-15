@@ -38,5 +38,5 @@ Alpha Gamma chapter at the University of Missouri- Columbia
 
 ## **Courses**
 ### **Introduction to Game Theory & Design**
-INFOTC 2630
+INFOTC 2630  
 Associated with University of Missouri-Columbia
