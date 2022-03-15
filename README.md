@@ -6,7 +6,7 @@ I want to immerse myself in the technology industry to learn new technology/soft
 
 ### **Experience**
 #### **Medical Assistant**
-Forefront Dermatology.  
+Forefront Dermatology   
 Part-time
 May 2021 - Present · 11 mos 
 Wildwood, Missouri, United States
