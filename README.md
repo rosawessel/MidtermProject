@@ -23,8 +23,6 @@ St Louis, Missouri, United States
 Facilitated a productive learning environment for 50 first-year biology students by   
 assisting and demonstrating proper techniques weekly during the laboratory.
 
-
-
 ## **Education**
 ### **University of Missouri- Columbia**
 Bachelor of Science - BS, Information Technology  
