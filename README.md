@@ -40,6 +40,7 @@ Grade: Sophomore
 Activities and societies: Alpha Gamma chapter of Alpha Delta Pi
 
 ## **Volunteering**
+*[Volunteering](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*
 ### **Active Member**
 Alpha Delta Pi Sorority  
 Jan 2022 - Present · 3 mos  
