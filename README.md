@@ -1,5 +1,9 @@
 # Midterm Project - LinkedIn Profile Sample
 *[Click here to visit LinkedIn Profile](https://www.linkedin.com/in/rosa-wessel-904101218/)*
+Indented code
+
+    // Coding
+    print("Hello World")
 
 ##  **About**
 I am a sophomore pursuing a degree in Information Technology at the University of Missouri-Columbia. My areas of interest include Digital Media/Multimedia and Software Development; however, I am open to all areas of IT. I am intermediate in Python and HTML coding and have a thorough knowledge of game theory and design. I am interested in internship opportunities this summer and am willing to relocate. 
