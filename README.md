@@ -1,5 +1,5 @@
 # Midterm Project - LinkedIn Profile Sample
-*[Click here to visit LinkedIn Profile](https://www.linkedin.com/in/rosa-wessel-904101218/)*
+*[Click here to visit Full LinkedIn Profile](https://www.linkedin.com/in/rosa-wessel-904101218/)*
 
 ## **Code**
 Indented code
