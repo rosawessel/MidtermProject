@@ -49,4 +49,4 @@ INFOTC 2630
 Associated with University of Missouri-Columbia 
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-![Hubot](https://octodex.github.com/images/hubot.jpg)
+![Hubot](https://octodex.github.com/images/hubot.jpg "The Hubot")
