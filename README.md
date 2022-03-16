@@ -47,5 +47,3 @@ Alpha Gamma chapter at the University of Missouri- Columbia
 ### **Introduction to Game Theory & Design**
 INFOTC 2630  
 Associated with University of Missouri-Columbia 
-
-![Minion](https://octodex.github.com/images/minion.png)
