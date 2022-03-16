@@ -47,3 +47,5 @@ Alpha Gamma chapter at the University of Missouri- Columbia
 ### **Introduction to Game Theory & Design**
 INFOTC 2630  
 Associated with University of Missouri-Columbia 
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
