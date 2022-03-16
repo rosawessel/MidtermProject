@@ -32,6 +32,7 @@ Facilitated a productive learning environment for 50 first-year biology students
 assisting and demonstrating proper techniques weekly during the laboratory.
 
 ## **Education**
+*[Education](https://www.linkedin.com/in/rosa-wessel-904101218/details/education/)*
 ### **University of Missouri- Columbia**
 Bachelor of Science - BS, Information Technology  
 Jan 2022 - Dec 2024  
