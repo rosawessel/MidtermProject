@@ -50,3 +50,4 @@ Associated with University of Missouri-Columbia
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 ![Hubot](https://octodex.github.com/images/hubot.jpg "The Hubot")
+![Columns](https://media.istockphoto.com/photos/university-of-missouri-picture-id1033805110?k=20&m=1033805110&s=612x612&w=0&h=DDY4F-a_0b8Cwl_G6r3dB7YsRdZggk5guXNGa2cPckk=)
