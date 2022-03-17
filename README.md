@@ -22,7 +22,7 @@ I want to immerse myself in the technology industry to learn new technology/soft
 
 
 ## **Skills**
-*[Click to view Skills]()*   
+*[Click to view Skills](https://github.com/rosawessel/Skills/blob/main/README.md)*   
 
 ## **Courses**
 ### **Introduction to Game Theory & Design**
