@@ -14,20 +14,8 @@ I want to immerse myself in the technology industry to learn new technology/soft
 ## **Experience**
 *[Click to view Experience](https://github.com/rosawessel/Experience/blob/main/README.md)*
 
-### **BIOL 1245 Undergraduate Laboratory Teaching Assistant**
-Saint Louis University · Part-time  
-Aug 2021 - Dec 2021 · 5 mos  
-St Louis, Missouri, United States  
-Facilitated a productive learning environment for 50 first-year biology students by   
-assisting and demonstrating proper techniques weekly during the laboratory.
-
 ## **Education**
-*[Education](https://www.linkedin.com/in/rosa-wessel-904101218/details/education/)*
-### **University of Missouri- Columbia**
-Bachelor of Science - BS, Information Technology  
-Jan 2022 - Dec 2024  
-Grade: Sophomore  
-Activities and societies: Alpha Gamma chapter of Alpha Delta Pi
+*[Click to view Education](https://www.linkedin.com/in/rosa-wessel-904101218/details/education/)*
 
 ## **Volunteering**
 *[Volunteering](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*
