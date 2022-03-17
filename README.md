@@ -18,11 +18,8 @@ I want to immerse myself in the technology industry to learn new technology/soft
 *[Click to view Education](https://github.com/rosawessel/Education/blob/main/README.md)*
 
 ## **Volunteering**
-*[Volunteering](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*
-### **Active Member**
-Alpha Delta Pi Sorority  
-Jan 2022 - Present · 3 mos  
-Alpha Gamma chapter at the University of Missouri- Columbia
+*[Click to view Volunteering]()*
+
 
 ## **Skills**
 *[Skills](https://www.linkedin.com/in/rosa-wessel-904101218/details/skills/)*  
