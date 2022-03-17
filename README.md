@@ -15,7 +15,7 @@ I want to immerse myself in the technology industry to learn new technology/soft
 *[Click to view Experience](https://github.com/rosawessel/Experience/blob/main/README.md)*
 
 ## **Education**
-*[Click to view Education](https://www.linkedin.com/in/rosa-wessel-904101218/details/education/)*
+*[Click to view Education](https://github.com/rosawessel/Education/blob/main/README.md)*
 
 ## **Volunteering**
 *[Volunteering](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*
