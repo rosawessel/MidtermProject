@@ -12,16 +12,7 @@ I am a sophomore pursuing a degree in Information Technology at the University o
 I want to immerse myself in the technology industry to learn new technology/software skills and gain hands-on experience. To deliver exceptional and accurate services to help others, I value effective communication to employ teamwork and collaboration with others. My experience adapting to work efficiently while under pressure in professional environments taught me the importance of being a valuable team player.
 
 ## **Experience**
-*[Experience](https://www.linkedin.com/in/rosa-wessel-904101218/details/experience/)*
-### **Medical Assistant**  
-Forefront Dermatology   
-Part-time  
-May 2021 - Present · 11 mos   
-Wildwood, Missouri, United States  
--Provide exceptional patient care experiences by working closely with providers and patients primarily seen for acne, skin checks, warts, and rashes  
--Utilize NextGen Healthcare Information Systems & ModMed's EMA EHR System to accurately and efficiently record patient information in electronic medical records for 15-20 patients daily  
--Create and deliver patients’ prescriptions instructed from providers to pharmacies electronically  
--Discuss and inform patients about shave biopsy, cryosurgery, and electrodesiccation & curette wound care instructions
+*[Click to view Experience](https://github.com/rosawessel/Experience/blob/main/README.md)*
 
 ### **BIOL 1245 Undergraduate Laboratory Teaching Assistant**
 Saint Louis University · Part-time  
