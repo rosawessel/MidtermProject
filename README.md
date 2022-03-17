@@ -22,12 +22,7 @@ I want to immerse myself in the technology industry to learn new technology/soft
 
 
 ## **Skills**
-*[Skills](https://www.linkedin.com/in/rosa-wessel-904101218/details/skills/)*  
--R (Programming Language)  
--Python (Programming Language)  
--HTML  
--Microsoft Suites  
--Google Suites  
+*[Click to view Skills]()*   
 
 ## **Courses**
 ### **Introduction to Game Theory & Design**
